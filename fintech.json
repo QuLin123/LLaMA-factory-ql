@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "位错散射对高密度2DEG有没有影响？",
+        "input": "",
+        "output": "AlGaN/AlN/GaN异质结构中，位错散射对高密度2DEG的影响尤为显著？",
+        "history": []
+    },
+    {
+        "instruction": "采用AlN/GaN超晶格和低温AlN间层作为应变缓解技术的原理",
+        "input": "",
+        "output": "采用AlN/GaN超晶格和低温AlN间层作为应变缓解技术的原理。",
+        "history": []
+    },
+    {
+        "instruction": "位错散射对电子迁移率有没有影响",
+        "input": "",
+        "output": " AlGaN/AlN/GaN异质结构中，位错散射对高密度2DEG的影响尤为显著",
+        "history": []
+    },
+    {
+        "instruction": "提高GaN外延质量的技术方法有哪些",
+        "input": "",
+        "output": "使用sputtered AlN 磁控溅射AlN替代LT-GaN 做缓冲层",
+        "history": []
+    },
+    {
+        "instruction": "提高LED发光效率方法",
+        "input": "",
+        "output": "使用sputtered AlN 磁控溅射AlN替代LT-GaN 做缓冲层 提高结晶质量",
+        "history": []
+    },
+    {
+        "instruction": "如何减小金属有机气相外延（MOVPE）技术生长的GaN中的应力",
+        "input": "",
+        "output": "插入AlN/GaN超晶格，可以增加GaN层的临界厚度，从而避免裂纹的形成，进而减小应力",
+        "history": []
+    },
+    {
+        "instruction": "湿法刻蚀AlN方法",
+        "input": "",
+        "output": "KOH溶液中湿法刻蚀AlN",
+        "history": []
+    },
+    {
+        "instruction": "磁控溅射AlN的晶体质量影响因素有哪些",
+        "input": "",
+        "output": "氮气含量和射频功率的增加，晶体质量得到改善，生长速率增加；溅射压力的增加则导致生长速",
+        "history": []
+    },
+    {
+        "instruction": "射频磁控溅射生长条件因素有哪些",
+        "input": "",
+        "output": "使用射频磁控溅射在蓝宝石衬底上生长AlN薄膜的依赖性。结果表明，在100°C的衬底温度下，可以获得优先c轴的AlN薄膜",
+        "history": []
+    },
+    {
+        "instruction": "GaN在AlN上的Stranski–Krastanov生长模式，制备了纳米尺度的自组织GaN量子点的特性",
+        "input": "",
+        "output": "GaN量子点的发光峰与块材料发射相比有蓝移，且其强度不随温度变化，表明这些纳米结构具有强烈的零维特性",
+        "history": []
+    },
+    {
+        "instruction": "为什么位错会降低LED的发光效率",
+        "input": "",
+        "output": "c-GaN模板上生长的InGaN多量子阱(MQWs)中位错作为非辐射复合中心的作用，非辐射复合降低了内量子效率",
+        "history": []
+    },
+    {
+        "instruction": "位错为什么成为非辐射复合中心",
+        "input": "",
+        "output": "螺旋位错将导致带隙内电子态的分布，从而成为非辐射复合和电流泄漏的强中心",
+        "history": []
+    },
+    {
+        "instruction": "位错为什么成为非辐射复合中心",
+        "input": "",
+        "output": "错附近的暗斑与载流子的非辐射复合有关，且复合效率与位错类型有关",
+        "history": []
+    },
+    {
+        "instruction": "位错为什么成为非辐射复合中心",
+        "input": "",
+        "output": "GaN中的threading dislocations可能对少数载流子的复合寿命和扩散长度有显著影响",
+        "history": []
+    },
+    {
+        "instruction": "GaN基材料和器件中位错的运动对器件寿命的影响",
+        "input": "",
+        "output": "GaN相关材料中的位错运动速度远低于GaAs，这是GaN基LED具有显著可靠性和长寿命的原因之一",
+        "history": []
+    },
+    {
+        "instruction": "获得低缺陷密度的GaN层方法",
+        "input": "",
+        "output": "通过横向外延生长和合并GaN同质条纹，可以获得低缺陷密度的连续GaN层",
+        "history": []
+    },
+    {
+        "instruction": "（threading dislocations, TDs）对物理性质影响",
+        "input": "",
+        "output": "Ds在GaN的III族氮化物中表现为非辐射复合中心，具有能级位于禁带中，作为带电散射中心在掺杂材料中存在，并提供漏电流路径。研究还发现，与传统的III-V族半导体相比，GaN的较小的少数载流子扩散长度和有利的TD几何结构最小化了与TD相关的退化",
+        "history": []
+    },
+    {
+        "instruction": "AlN的高质量生长方法",
+        "input": "",
+        "output": "AlN的高质量生长可以通过高温生长而不使用低温初始层来实现，这与GaN生长技术中常用的低温核化层不同",
+        "history": []
+    },
+    {
+        "instruction": "缺陷密度如何影响非辐射复合",
+        "input": "",
+        "output": "在80-800K范围内，非辐射载流子寿命随温度的线性增加与双极载流子扩散系数的减小有关。这种相关性证实了复合速率是由载流向晶粒边界的柱状缺陷决定的",
+        "history": []
+    },
+    {
+        "instruction": "选择区域生长（SAG）",
+        "input": "",
+        "output": "AG技术实现了位错密度显著降低",
+        "history": []
+    },
+    {
+        "instruction": "外延横向过生长（ELO）",
+        "input": "",
+        "output": " ELO技术对于获得低位错密度的外延层在异质外延系统中至关重要",
+        "history": []
+    },
+    {
+        "instruction": "外延横向过生长（ELO） 应用",
+        "input": "",
+        "output": "突出的特定应用包括在ELO GaN衬底上制造的激光二极管展示了延长的寿命，以及在ELO GaN上开发的高性能AlGaN/GaN异质结构FET和UV光电二极管",
+        "history": []
+    },
+    {
+        "instruction": "镓条件下GaN中螺旋位错的Ga填充核心模型 ",
+        "input": "",
+        "output": "位错在GaN的带隙中产生电子态，因此预计成为非辐射复合和电流泄漏的非常强的中心。研究结果表明，在富镓条件下，Ga填充核心模型比空心核心模型更稳定",
+        "history": []
+    },
+    {
+        "instruction": "如何降低AlN生长过程中的V状缺陷密度",
+        "input": "",
+        "output": "延长生长时间，外延更厚的晶体层",
+        "history": []
+    },
+    {
+        "instruction": "如何调整深紫外LED的发光波长",
+        "input": "",
+        "output": "调整AlGaN中的Al组分大小",
+        "history": []
+    },
+    {
+        "instruction": "坎德拉级别的高亮度InGaN/AlGaN双异质结构（DH）蓝光发光二极管（LED）提高发光强度的关键方法是什么",
+        "input": "",
+        "output": "Zn掺杂的InGaN层作为DH LED的活性层",
+        "history": []
+    },
+    {
+        "instruction": "高铝组分的AlGaN外延生长",
+        "input": "",
+        "output": "AlGaN具有比底层AlN更大的平面内晶格常数，因此在AlGaN中产生了平面内压应力，这在抑制裂纹的产生中起着重要作用",
+        "history": []
+    },
+    {
+        "instruction": "AlGaN外延层光滑表面上自组织量子点的生长模式是什么",
+        "input": "",
+        "output": "AlGaN外延层的光滑表面上自组织量子点的特征显示了Stranski–Krastanov(SK)岛生长模式",
+        "history": []
+    },
+    {
+        "instruction": "有沟槽图案的蓝宝石衬底上进行AlN层的外延横向生长(ELO)是否都可以融合成完整的AlN层",
+        "input": "",
+        "output": "不是，受晶面影响很大，部分晶面生长的AlN无法融合",
+        "history": []
+    },
+    {
+        "instruction": "金属有机化学气相沉积(MOCVD)技术生长AlN如何提高表面平滑度",
+        "input": "",
+        "output": "通过抑制降低氨部分压力和生长速率，在提高生长温度的条件下，可以改善表面形态并生长高质量的材料",
+        "history": []
+    },
+    {
+        "instruction": "Si (1 1 1)衬底上的AlGaN的重要因素",
+        "input": "",
+        "output": "Al源通量是生长Si (1 1 1)衬底上的AlGaN的重要因素。微拉曼光谱的分析支持了在AlGaN生长的初始阶段，Al原子聚集在AlN/Si (1 1 1)界面附近凹坑区域的观点",
+        "history": []
+    },
+    {
+        "instruction": "AlN间层生长条件对AlGaN/GaN多层膜内应力状态的影响",
+        "input": "",
+        "output": "改变间层生长温度、V/III比率和间层厚度，可以调整压缩内应力的程度",
+        "history": []
+    },
+    {
+        "instruction": "界面受主陷阱对AlGaN/GaN高电子迁移率晶体管(HEMTs)瞬态响应的影响",
+        "input": "",
+        "output": "界面受主陷阱是主导HEMT器件开通瞬态响应的因素",
+        "history": []
+    },
+    {
+        "instruction": "金属有机化学气相沉积(MOCVD)技术生长AlN或者AlGaN如何表征晶体质量",
+        "input": "",
+        "output": "过透射电子显微镜(TEM)、阴极荧光CL（Cathodoluminescene）、X射线衍射XRD和原子力显微镜(AFM)来表征 ",
+        "history": []
+    },
+    {
+        "instruction": "在AlN和AlGaN的金属有机气相外延(MOVPE)沉积中，氨和III族气体流量增强对生长速率的影响是什么",
+        "input": "",
+        "output": "减少载气流量或降低总反应器压力，可以提高生长效率",
+        "history": []
+    },
+    {
+        "instruction": "金属有机化学气相沉积(MOCVD)技术生长AlN或者AlGaN的一般步骤是什么",
+        "input": "",
+        "output": "首先在衬底上生长一层低温缓冲层（LT-AlN）然后再生长氮化铝AlN或者AlGaN层",
+        "history": []
+    },
+    {
+        "instruction": "金属有机化学气相沉积(MOCVD)技术生长高铝组分的AlGaN时候，低温缓冲层（LT-AlN）生长应该注意什么",
+        "input": "",
+        "output": "缓冲层（LT-AlN）厚度是影响AlGaN外延层质量的关键参数",
+        "history": []
+    },
+    {
+        "instruction": "如何提高金属有机化学气相沉积(MOCVD)技术生长AlGaN的结晶质量",
+        "input": "",
+        "output": "使用(AlN/GaN)多缓冲层结构(MBLS)",
+        "history": []
+    },
+    {
+        "instruction": "如何提高金属有机化学气相沉积(MOCVD)技术生长的AlGaN的结晶质量",
+        "input": "",
+        "output": "可以使用超晶格结构(Supperlattice)技术",
+        "history": []
+    },
+    {
+        "instruction": "为什么优化金属有机化学气相沉积(MOCVD)技术生长AlN中，使用V/III比率非常低的两步生长技术可以提高结晶质量",
+        "input": "",
+        "output": "因为其低螺旋位错密度降低了",
+        "history": []
+    },
+    {
+        "instruction": "如何优化金属有机化学气相沉积(MOCVD)技术生长的AlGaN基紫外发光二极管(UV-LEDs)总量子效率",
+        "input": "",
+        "output": "可以通过在p-AlGa5N层中引入具有组分梯度组成的多个p-AlGaN层实现提升",
+        "history": []
+    },
+    {
+        "instruction": "如何优化金属有机化学气相沉积(MOCVD)技术生长的AlGaN基紫外发光二极管(UV-LEDs)发光效率",
+        "input": "",
+        "output": "可以通过在p-AlGa5N层中引入具有组分梯度组成的多个p-AlGaN层实现提升",
+        "history": []
+    },
+    {
+        "instruction": "ALGaN薄膜外延生长中，如何有效抑制表面裂纹",
+        "input": "",
+        "output": "在薄膜外延生长中，加入低温氮化铝(LT-AlN)和高温氮化铝（HT-AlN）层可以有效抑制薄膜的表面裂痕",
+        "history": []
+    },
+    {
+        "instruction": "GaN技术如何影响可持续能源领域",
+        "input": "",
+        "output": "GaN在提高太阳能转换效率和电动车功率转换系统中的应用，有望提高能源利用效率和环境可持续性。",
+        "history": []
+    },
+    {
+        "instruction": "在提高GaN器件可靠性方面，研究者应关注哪些新策略？",
+        "input": "",
+        "output": "关注新的材料处理方法、缺陷控制技术和提高热稳定性的设计。",
+        "history": []
+    },
+    {
+        "instruction": "GaN技术的未来发展趋势是什么？",
+        "input": "",
+        "output": "包括提高材料质量、降低成本、开发新的应用以及提升器件的可靠性和性能。",
+        "history": []
+    },
+    {
+        "instruction": "GaN器件制造中的缺陷如何被检测和减少？",
+        "input": "",
+        "output": "通过先进的表征技术识别缺陷，并通过改进生长和制造工艺减少缺陷。",
+        "history": []
+    },
+    {
+        "instruction": "为什么GaN被认为适合于射频应用？",
+        "input": "",
+        "output": "由于其高电子迁移率和高频性能，GaN非常适合用于高频率、高功率的射频应用。",
+        "history": []
+    },
+    {
+        "instruction": "GaN技术在系统级应用中面临哪些问题？",
+        "input": "",
+        "output": "包括热管理、驱动和控制策略，以及与其他系统组件的集成问题。",
+        "history": []
+    },
+    {
+        "instruction": "如何通过设计改进GaN器件的性能？",
+        "input": "",
+        "output": "通过优化器件结构、使用高质量的材料以及改善制造工艺来减少缺陷和提高性能。",
+        "history": []
+    },
+    {
+        "instruction": "GaN器件在功率电子中替代硅的挑战是什么？",
+        "input": "",
+        "output": "包括材料成本、生产规模以及与现有硅基技术的兼容性问题。",
+        "history": []
+    },
+    {
+        "instruction": "GaN材料中的自然超结构是什么，它如何影响器件性能？",
+        "input": "",
+        "output": "自然超结构指的是GaN材料中因极化效应产生的内部电场，这有助于改善器件的电导和电压特性",
+        "history": []
+    },
+    {
+        "instruction": "在GaN HEMTs的可靠性研究中，哪些因素最为关键？",
+        "input": "",
+        "output": "温度、电压应力和电流应力是影响GaN HEMTs可靠性的关键因素",
+        "history": []
+    },
+    {
+        "instruction": "GaN器件中深层缺陷的特性如何影响性能？",
+        "input": "",
+        "output": "深层缺陷会影响器件的电荷保持能力和可靠性，是性能衰减和失效的重要因素。",
+        "history": []
+    },
+    {
+        "instruction": "横向与垂直GaN器件有何不同？",
+        "input": "",
+        "output": "横向设备在硅片表面形成，适合高频应用；垂直设备适合高电流、高电压应用，具有更好的导热性能。",
+        "history": []
+    },
+    {
+        "instruction": "GaN-on-Silicon工艺的优点是什么？",
+        "input": "",
+        "output": "提供了与现有硅基设备制造兼容的低成本解决方案，同时兼顾了GaN的高性能特点。",
+        "history": []
+    },
+    {
+        "instruction": "GaN设备的主要应用领域有哪些？",
+        "input": "",
+        "output": "要应用在高效率电力转换、射频通信、雷达系统和高性能LED照明等领域。",
+        "history": []
+    },
+    {
+        "instruction": "GaN技术的商业化进程中存在哪些挑战？",
+        "input": "",
+        "output": "商业化挑战包括提高生产效率、降低成本、满足不同应用的性能要求和提高市场接受度。",
+        "history": []
+    },
+    {
+        "instruction": "如何解决GaN器件的高缓冲层漏电问题？",
+        "input": "",
+        "output": "通过补偿掺杂和优化缓冲层设计，如采用AlGaN/GaN/AlGaN双异质结构，来降低缓冲层漏电和提高击穿电压。",
+        "history": []
+    },
+    {
+        "instruction": "GaN技术发展中的主要挑战是什么？",
+        "input": "",
+        "output": "主要挑战包括材料和器件的生长技术、应力管理、热管理、可靠性和成本效益",
+        "history": []
+    },
+    {
+        "instruction": "如何解决GaN器件的高缓冲层漏电问题？",
+        "input": "",
+        "output": "通过补偿掺杂和优化缓冲层设计，如采用AlGaN/GaN/AlGaN双异质结构，来降低缓冲层漏电和提高击穿电压。",
+        "history": []
+    },
+    {
+        "instruction": "GaN基HEMT与传统HEMT相比有什么改进？",
+        "input": "",
+        "output": "GaN基HEMT因其宽带隙和高电子迁移率，提供了更高的工作频率和功率密度，更适合于高性能应用。",
+        "history": []
+    },
+    {
+        "instruction": "GaN HEMTs的封装技术对器件性能有何影响？",
+        "input": "",
+        "output": "封装技术对器件性能的影响包括提高器件的热稳定性、减少寄生电容和电感，以及提高器件的整体可靠性。",
+        "history": []
+    },
+    {
+        "instruction": "为何要在GaN器件中使用表面钝化技术？",
+        "input": "",
+        "output": "表面钝化可以减少表面态密度，提高器件稳定性和性能。",
+        "history": []
+    },
+    {
+        "instruction": "GaN器件的击穿电压如何提高？",
+        "input": "",
+        "output": "通过补偿掺杂、增加缓冲层厚度和采用AlGaN/GaN/AlGaN双异质结构等方法提高。",
+        "history": []
+    },
+    {
+        "instruction": "硅基GaN器件如何解决应力和裂纹问题？",
+        "input": "",
+        "output": "通过应力工程，如引入AlN或AlGaN缓冲层和超晶格结构，来平衡应力和减少裂纹。",
+        "history": []
+    },
+    {
+        "instruction": "GaN HEMTs封装技术中遇到哪些挑战？",
+        "input": "",
+        "output": "包括降低寄生电感、优化热管理和选择适合GaN产品的封装类型。",
+        "history": []
+    },
+    {
+        "instruction": "GaN HEMT器件的可靠性如何评估？",
+        "input": "",
+        "output": "通过温度相关退化、电流塌陷和击穿前行为等参数评估GaN HEMT器件的可靠性。",
+        "history": []
+    },
+    {
+        "instruction": "GaN垂直功率器件有何特点？",
+        "input": "",
+        "output": "GaN垂直功率器件能够处理高电压和高电流，适合高功率应用",
+        "history": []
+    },
+    {
+        "instruction": "如何制造GaN晶体管？",
+        "input": "",
+        "output": "制造GaN晶体管涉及多个步骤，包括器件隔离、欧姆接触形成、栅极制造和表面钝化等。",
+        "history": []
+    },
+    {
+        "instruction": "GaN异质结的极化效应是什么？",
+        "input": "",
+        "output": "GaN异质结的极化效应包括自发极化和压电极化，这对于器件的电子结构和性能有重要影响。",
+        "history": []
+    },
+    {
+        "instruction": "硅基高压GaN的生长技术中面临哪些挑战？",
+        "input": "",
+        "output": "面临的挑战包括大的热膨胀系数和晶格不匹配，以及防止GaN与硅反应产生的溶背蚀问题。",
+        "history": []
+    },
+    {
+        "instruction": "GaN器件与传统硅器件相比有哪些优势？",
+        "input": "",
+        "output": "GaN器件在高频、高功率和高温下性能优越，具有更高的效率和更小的尺寸。",
+        "history": []
+    },
+    {
+        "instruction": "GaN是什么类型的半导体材料？",
+        "input": "",
+        "output": "GaN是第三代半导体材料，具有高电子迁移率和高击穿电场强度。",
+        "history": []
+    },
+    {
+        "instruction": "对于GaN技术，未来有哪些预期的应用？",
+        "input": "",
+        "output": "由于其多功能属性，GaN在功率电子、射频放大、传感技术和可再生能源应用中的作用预计将扩大。",
+        "history": []
+    },
+    {
+        "instruction": "在GaN HEMTs中实现常闭操作的策略有哪些？",
+        "input": "",
+        "output": "采用门掏空、电荷管理和并联配置等技术确保设备处于常闭状态，以提高安全性和性能。",
+        "history": []
+    },
+    {
+        "instruction": "场板如何改善GaN设备性能？",
+        "input": "",
+        "output": "它们修改电场分布以减少峰值电场，提高击穿电压并减少泄露电流。",
+        "history": []
+    },
+    {
+        "instruction": "衬底选择对GaN设备制造的影响是什么？",
+        "input": "",
+        "output": "衬底影响热管理、晶格匹配和成本，进而影响整体设备性能和应用范围。",
+        "history": []
+    },
+    {
+        "instruction": "外延生长技术如何影响GaN设备性能？",
+        "input": "",
+        "output": "外延层的质量和属性显著影响设备的效率、击穿电压和可靠性。",
+        "history": []
+    },
+    {
+        "instruction": "使用GaN作为功率设备相比硅有什么好处？",
+        "input": "",
+        "output": "更高的效率、更小的设备尺寸由于更低的导通电阻，以及在更高的温度和电压操作下一个环境时能够工作和持续工作的能力。在高电压下工作。",
+        "history": []
+    },
+    {
+        "instruction": "什么导致GaN HEMTs中的陷阱和退化？",
+        "input": "",
+        "output": "包括缺陷相关的陷阱和热效应机制，影响设备的可靠性和性能。",
+        "history": []
+    },
+    {
+        "instruction": "基于GaN的带间隧道结如何工作？",
+        "input": "",
+        "output": "这些结允许电子在带间有效隧穿，用于LED和激光二极管。",
+        "history": []
+    },
+    {
+        "instruction": "III族氮化物半导体中新的红外间隙技术是什么？",
+        "input": "",
+        "output": "利用GaN的带结构，用于红外检测和成像的应用。",
+        "history": []
+    },
+    {
+        "instruction": "InGaN基太阳能电池与传统太阳能电池相比如何？",
+        "input": "",
+        "output": "由于GaN的宽带隙，适用于捕获更广泛的阳光光谱，提供更高的效率潜力。",
+        "history": []
+    },
+    {
+        "instruction": "MIS型肖特基氢气传感器在GaN应用中扮演什么角色？",
+        "input": "",
+        "output": "利用GaN的属性进行敏感的氢气检测，对环境和工业监控很重要。",
+        "history": []
+    },
+    {
+        "instruction": "在GaN微波集成电路中取得了哪些进步？",
+        "input": "",
+        "output": "GaN技术的整合导致了高频应用中紧凑、高效的电路。",
+        "history": []
+    },
+    {
+        "instruction": "如何优化GaN设备用于高频应用？",
+        "input": "",
+        "output": "通过缩小设备尺寸和优化电子传输属性的缩放技术，实现更高的操作频率。",
+        "history": []
+    },
+    {
+        "instruction": "在Si衬底上生长GaN的挑战是什么？",
+        "input": "",
+        "output": "晶格不匹配和热膨胀差异构成挑战，但通过技术进步解决，实现成本效益和可扩展生产。",
+        "history": []
+    },
+    {
+        "instruction": "哪些应用从GaN设备中受益？",
+        "input": "",
+        "output": "高频功率放大器、LED、激光二极管和高效率太阳能电池等受益于GaN的属性",
+        "history": []
+    },
+    {
+        "instruction": "GaN与Si和SiC在设备性能方面的比较如何？",
+        "input": "",
+        "output": "GaN设备在击穿强度和导通电阻方面优于Si，与SiC设备在静态导通电阻方面相当",
+        "history": []
+    },
+    {
+        "instruction": "什么是AlGaN/GaN HEMTs？",
+        "input": "",
+        "output": "由GaN和AlGaN制成的高电子迁移率晶体管，具有高关态击穿强度和优异的导通性能。",
+        "history": []
+    },
+    {
+        "instruction": "在GaN技术中，什么是高压力设备",
+        "input": "",
+        "output": "指的是设计用于高电压操作的GaN设备，由于GaN的优越性能，相比硅基设备有优势。",
+        "history": []
+    },
+    {
+        "instruction": "GaN在技术中的重要性是什么？",
+        "input": "",
+        "output": "它的宽带隙、高电子迁移率和对电离辐射的低敏感性使其成为军事、太空和太阳能应用中高性能设备的理想选择。",
+        "history": []
+    },
+    {
+        "instruction": "镓氮(GaN)是什么？",
+        "input": "",
+        "output": "GaN是一种二元III/V直接带隙半导体，用于光电子、高功率和高频率设备。",
+        "history": []
+    },
+    {
+        "instruction": "GaN-HEMTs的动态模型开发的目的是什么？",
+        "input": "",
+        "output": "为了更准确地预测和优化设备在转换应用中的表现。",
+        "history": []
+    },
+    {
+        "instruction": "如何评估不同功率设备的性能？",
+        "input": "",
+        "output": "通过比较特定的性能参数，如开关电荷和导通电阻",
+        "history": []
+    },
+    {
+        "instruction": "GaN-HEMTs在开关事件中损耗的影响因素是什么？",
+        "input": "",
+        "output": "开关频率和开关电荷",
+        "history": []
+    },
+    {
+        "instruction": "高频和高功率应用中，GaN-HEMTs如何减少损耗？",
+        "input": "",
+        "output": "通过减少开关时间和优化门电荷管理。",
+        "history": []
+    },
+    {
+        "instruction": "GaN-on-Si技术的优势是什么？",
+        "input": "",
+        "output": "高质量、低成本、大直径晶圆兼容性",
+        "history": []
+    },
+    {
+        "instruction": "功率半导体设备的四个特征操作状态是什么？",
+        "input": "",
+        "output": "关态、导通态、切换态和逆向态",
+        "history": []
+    }
+]
